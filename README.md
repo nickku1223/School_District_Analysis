@@ -13,16 +13,24 @@ There are some evidence of academic dishonesty which affect the data source, thi
 ![Updated analysis result](Resources/district_summary_updated.png)
 
 - Average math score is down 0.1
-
 - Average reading score didn't change
-
 - % passing math is down 0.2%
-
 - % passing reading is down 0.3%
-
 - % overall passing is down 0.1%
 
 From the results we can see that the changes of THS 9th graders have affected very little on the district summary results.
 
 ### 2. School summary
 
+<sub> The original analysis of school summary </sub>
+![Original analysis result](Resources/per_school_summary_original.png)
+<sub> The updated analysis of school summary </sub>
+![Updated analysis result](Resources/per_school_summary_updated.png)
+
+- Average math score is down about 0.1
+- Average reading score is down about 0.05
+- % passing math is up about 26%
+- % passing reading is up about 27%
+- % overall passing is up about 25%
+
+From the results of school summary we can see that the average scores didn't change much, but the pecentenge of passing math/reading/overall are significantly increased. Replacing the math and reading scores of the 9th graders from THS brought up the school's overall performance to one of the front runner of the school in the district.
