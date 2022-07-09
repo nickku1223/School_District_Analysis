@@ -26,7 +26,3 @@ From the results we can see that the changes of THS 9th graders have affected ve
 
 ### 2. School summary
 
-<sub> The original analysis of school summary </sub>
-![Original analysis result](Resources/per_school_summary_original.png)
-<sub> The updated analysis of school summary </sub>
-![Updated analysis result](Resources/per_school_summary_updated.png)
